@@ -1,6 +1,6 @@
 ## Golang Kata Starter
 
-Base to start a kata in using Golang with nothing more than Docker available
+A starting point for a kata in Golang with nothing more than Docker to run our tests.
 
 ### Prerequisites
 
