@@ -1,0 +1,10 @@
+FROM golang:1.12.13-stretch
+
+ENV GO111MODULE=on
+
+RUN go get github.com/cespare/reflex
+RUN go get github.com/go-delve/delve/cmd/dlv
+
+RUN go get github.com/onsi/ginkgo/ginkgo
+
+COPY reflex.conf /
