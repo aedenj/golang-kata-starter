@@ -1,4 +1,4 @@
-module github.com/aedenj/golang-kata-starter
+module github.com/aedenj/golang-kata
 
 go 1.12
 
