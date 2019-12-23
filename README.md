@@ -6,8 +6,8 @@ A starting point for a kata in Golang with nothing more than Docker to run our t
 
 1. Docker
 
-    + [Windows] (https://docs.docker.com/docker-for-windows/install/)
-    + [Mac] (https://download.docker.com/mac/stable/Docker.dmg)
+    + [Windows](https://docs.docker.com/docker-for-windows/install/)
+    + [Mac](https://download.docker.com/mac/stable/Docker.dmg)
 
 ### Up & Running
 
